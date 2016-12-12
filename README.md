@@ -1,5 +1,5 @@
 # Coffee.site
-Simple website for my Coffee repo.
+~~Simple~~ Lazy  website for my Coffee repo so I can view it on the iPad in the kitchen.
 
 ```
 $ pip install mkdocs 
