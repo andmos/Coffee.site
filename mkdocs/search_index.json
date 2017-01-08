@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/AeroPress/", 
-            "text": "Aeropress\n\n\n\n\nSingle cup - Strong dark roasted coffee\n\n\nIntro\n\n\nAlways use clean water. Remember to moisten the filter. This method works nice with dark roasted coffee.\n\n\n\n\nCa. 2.2 dl water\n\n\n26 gr/ 2 scoops (the Aeropress scoope) freshly ground coffee, a bit finer than French Press\n\n\n\n\nInstructions\n\n\n\n\nMoister the filter and put it in the holder. Attach the holder to the Aeropress and put it on top of the cup.\n\n\nAdd the coffee.\n\n\nStart a timer.\n\n\nFill water up to the 2 mark and stir for 15 seconds.\n\n\nFill the rest of the water up to the 4 mark. Let the coffee bloom until the timer hits 45 - 47 seconds.\n\n\nPress down slowly, try to hit the 1 minute and 25 seconds mark.\n\n\n\n\nSingle cup - Inverted method\n\n\nIntro\n\n\nAlways use clean water. Remember to moisten the filter.\n\n\n\n\nCa. 260 gr water\n\n\n18 gr/ 1.6 scoops (the Aeropress scoope) freshly ground coffee, a bit finer than filter ground\n\n\n\n\nInstructions\n\n\n\n\nMoister the filter and put it in the holder.\n\n\nSet up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).\n\n\nAttach the other part of the Aeropress on top of the rubber plunger.\n\n\nAdd the coffee to the reversed press.\n\n\nPour water over the coffee and set a timer for 3 minutes.\n\n\nWhen the timer is done, flip the Aeropress over on top of a cup.\n\n\nPress down slowly for about 25 seconds.\n\n\n\n\nSingle glass - Dark roasted iced coffee - Inverted method\n\n\nIntro\n\n\nAlways use clean water. Remember to moisten the filter. This method chills the coffee instantly.\n\n\n\n\nCa. 150 gr water \n\n\n30 gr freshly ground coffee, a bit finer than filter / drip ground\n\n\n8 - 10 small/medium ice cubes\n\n\n\n\nIntroductions\n\n\n\n\nMoister the filter and put it in the holder.\n\n\nFill a cup with 4 - 5 ice cubes.\n\n\nFill a tall glass with 4 -5 ice cubes.\n\n\nSet up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).\n\n\nAttach the other part of the Aeropress on top of the rubber plunger.\n\n\nAdd the coffee to the reversed press.\n\n\nPour water over the coffee and set a timer for 1 minute.\n\n\nWhen the timer is done, flip the Aeropress over on top of a cup.\n\n\nPress down slowly for about 25 seconds.\n\n\nPour the coffee and the now semi-melted ice over the tall glass.", 
+            "text": "Aeropress\n\n\n\n\nSingle cup - Strong dark roasted coffee\n\n\nIntro\n\n\nAlways use clean water. Remember to moisten the filter. This method works nice with dark roasted coffee.\n\n\n\n\nCa. 2.2 dl water\n\n\n26 gr/ 2 scoops (the Aeropress scoope) freshly ground coffee, a bit finer than French Press\n\n\n\n\nInstructions\n\n\n\n\nMoister the filter and put it in the holder. Attach the holder to the Aeropress and put it on top of the cup.\n\n\nAdd the coffee.\n\n\nStart a timer.\n\n\nFill water up to the 2 mark and stir for 15 seconds.\n\n\nFill the rest of the water up to the 4 mark. Let the coffee bloom until the timer hits 45 - 47 seconds.\n\n\nPress down slowly, try to hit the 1 minute and 25 seconds mark.\n\n\n\n\nSingle cup - Inverted method\n\n\nIntro\n\n\nAlways use clean water. Remember to moisten the filter.\n\n\n\n\nCa. 260 gr water\n\n\n18 gr/ 1.6 scoops (the Aeropress scoope) freshly ground coffee, a bit finer than filter ground\n\n\n\n\nInstructions\n\n\n\n\nMoister the filter and put it in the holder.\n\n\nSet up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).\n\n\nAttach the other part of the Aeropress on top of the rubber plunger.\n\n\nAdd the coffee to the reversed press.\n\n\nPour water over the coffee and set a timer for 3 minutes.\n\n\nWhen the timer is done, flip the Aeropress over on top of a cup.\n\n\nPress down slowly for about 25 seconds.\n\n\n\n\nNote\n\n\n\n\nIf you find the brew too strong, reduce the coffee to 16 grams.\n\n\n\n\nSingle glass - Dark roasted iced coffee - Inverted method\n\n\nIntro\n\n\nAlways use clean water. Remember to moisten the filter. This method chills the coffee instantly.\n\n\n\n\nCa. 150 gr water \n\n\n30 gr freshly ground coffee, a bit finer than filter / drip ground\n\n\n8 - 10 small/medium ice cubes\n\n\n\n\nIntroductions\n\n\n\n\nMoister the filter and put it in the holder.\n\n\nFill a cup with 4 - 5 ice cubes.\n\n\nFill a tall glass with 4 -5 ice cubes.\n\n\nSet up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).\n\n\nAttach the other part of the Aeropress on top of the rubber plunger.\n\n\nAdd the coffee to the reversed press.\n\n\nPour water over the coffee and set a timer for 1 minute.\n\n\nWhen the timer is done, flip the Aeropress over on top of a cup.\n\n\nPress down slowly for about 25 seconds.\n\n\nPour the coffee and the now semi-melted ice over the tall glass.", 
             "title": "AeroPress"
         }, 
         {
@@ -49,6 +49,11 @@
             "location": "/AeroPress/#instructions_1", 
             "text": "Moister the filter and put it in the holder.  Set up the Aeropress reverse from what you would normally do (the rubber plunger pointing up).  Attach the other part of the Aeropress on top of the rubber plunger.  Add the coffee to the reversed press.  Pour water over the coffee and set a timer for 3 minutes.  When the timer is done, flip the Aeropress over on top of a cup.  Press down slowly for about 25 seconds.", 
             "title": "Instructions"
+        }, 
+        {
+            "location": "/AeroPress/#note", 
+            "text": "If you find the brew too strong, reduce the coffee to 16 grams.", 
+            "title": "Note"
         }, 
         {
             "location": "/AeroPress/#single-glass-dark-roasted-iced-coffee-inverted-method", 
@@ -178,6 +183,31 @@
         {
             "location": "/Moccamaster/#instructions", 
             "text": "Fill the water tank on the Moccamaster with clean, cold water.  Wet a white filter and put it in the Moccamaster and put the coffee in the filter. Make sure the coffee is evenly distributed in the filter!  Turn on the power and let the coffee brew.", 
+            "title": "Instructions"
+        }, 
+        {
+            "location": "/PourOver/", 
+            "text": "Pour Over\n\n\n\n\nIntro\n\n\nAlways use clean water. Remember to moisten the filter. This method works best with something like the classic Chemex or the Bodum Pour Over Coffee Maker, or the Hario V60 for a single cup of coffee.\nMake sure the coffee maker is nice and clean.\n\n\nChemex / Bodum Pour Over\n\n\n\n\nCa. 480 gr/ 480 ml water\n\n\nCa. 32 gr freshly filter ground coffee\n\n\n\n\nInstructions\n\n\n\n\nWet a paper filter and put in in the coffee maker.\n\n\nAdd the coffee to the filter\n\n\nPour 50 grams of hot water evenly over the grounds.\n\n\nAllow the coffee to bloom for about 30 seconds.\n\n\nPour the rest of the water (430 grams or 430 ml) evenly over the grounds in a slow and spiral fashion.\n\n\nAllow the coffee to drip through the filter and in to the coffee maker (should take 2 -3 minutes).\n\n\nRemove the filter when the filter has stopped dripping.\n\n\nAllow the coffee to cool for 4-5 minutes before serving.", 
+            "title": "PourOver"
+        }, 
+        {
+            "location": "/PourOver/#pour-over", 
+            "text": "", 
+            "title": "Pour Over"
+        }, 
+        {
+            "location": "/PourOver/#intro", 
+            "text": "Always use clean water. Remember to moisten the filter. This method works best with something like the classic Chemex or the Bodum Pour Over Coffee Maker, or the Hario V60 for a single cup of coffee.\nMake sure the coffee maker is nice and clean.", 
+            "title": "Intro"
+        }, 
+        {
+            "location": "/PourOver/#chemex-bodum-pour-over", 
+            "text": "Ca. 480 gr/ 480 ml water  Ca. 32 gr freshly filter ground coffee", 
+            "title": "Chemex / Bodum Pour Over"
+        }, 
+        {
+            "location": "/PourOver/#instructions", 
+            "text": "Wet a paper filter and put in in the coffee maker.  Add the coffee to the filter  Pour 50 grams of hot water evenly over the grounds.  Allow the coffee to bloom for about 30 seconds.  Pour the rest of the water (430 grams or 430 ml) evenly over the grounds in a slow and spiral fashion.  Allow the coffee to drip through the filter and in to the coffee maker (should take 2 -3 minutes).  Remove the filter when the filter has stopped dripping.  Allow the coffee to cool for 4-5 minutes before serving.", 
             "title": "Instructions"
         }
     ]
